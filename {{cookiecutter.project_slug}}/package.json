@@ -18,7 +18,7 @@
     "format": "npm run eslint:fix && npm run prettier:fix && npm run stylelint:fix"
   },
   "dependencies": {
-    "core-js": "^3.18.2",
+    "core-js": "^3.21.1",
     "tailwindcss": "^2.2.16"
   },
   "devDependencies": {
